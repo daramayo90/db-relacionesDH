@@ -24,11 +24,14 @@ Existen tres tipos de Relaciones:
     Rango | Soldados
 
 - Muchos a Muchos (n : m)
-    - Equipos / Componentes
-    - Peliculas / Actores
-    - Peliculas / Salas de cine
-    - Artículos / Proveedores
-    - Cursos / Alumnos
+
+    Muchos | Muchos
+    ----------- | ---------- 
+    Equipos | Componentes
+    Peliculas | Actores
+    Peliculas | Salas de cine
+    Artículos | Proveedores
+    Cursos | Alumnos
 
 
 # ¿Qué es un SGBD?

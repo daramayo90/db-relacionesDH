@@ -12,8 +12,8 @@ Existen tres tipos de Relaciones:
     - Equipos / Componentes
 
 
------------ | ---------- 
-Uno a Uno (1 : 1)
+
+Uno a Uno | (1 : 1)
 ----------- | ---------- 
 País | Jefe de Gobierno
 Vehículo | Patente

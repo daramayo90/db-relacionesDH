@@ -4,8 +4,14 @@
 
 Existen tres tipos de Relaciones:
 - Uno a Uno (1 : 1)
-    - País / Jefe de Gobierno
-    - Vehículo / Patente
+- 
+1 | 1
+----------- | ---------- 
+País | Jefe de Gobierno
+Vehículo | Patente
+Persona | DNI
+Persona | Madre 
+
 - Uno a Muchos (1 : n)
     - Sucursal / Empleados
 - Muchos a Muchos (n : m)
@@ -13,10 +19,4 @@ Existen tres tipos de Relaciones:
 
 
 
-Uno a Uno | (1 : 1)
 
-País | Jefe de Gobierno
------------ | ---------- 
-Vehículo | Patente
-Persona | DNI
-Persona | Madre 

@@ -13,8 +13,10 @@ Existen tres tipos de Relaciones:
 
 
 
------------ | ---------- 
+Uno a Uno | (1 : 1)
+
 País | Jefe de Gobierno
+----------- | ---------- 
 Vehículo | Patente
 Persona | DNI
 Persona | Madre 
